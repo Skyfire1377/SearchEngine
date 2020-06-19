@@ -125,7 +125,6 @@ class Base
 
 		Instruction *inst = ipat->next();
 		bool result = hd->find(inst);
-		
 		// if(!result){
 		// cout<<"not match"<<endl;
 		// } 
